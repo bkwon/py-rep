@@ -1,5 +1,5 @@
 """
-Slicing strings.
+Slicing strings. bk
 """
 
 word = "everything"
