@@ -1,5 +1,5 @@
 """
-String indexing examples.
+String indexing examples..
 """
 
 phrase = "Python is great!"
