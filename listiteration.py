@@ -1,5 +1,5 @@
 """
-Iterating over lists.
+Iterating over lists.  Added some custom logic for Odd Number output
 """
 
 def print_items(alist):

@@ -26,6 +26,7 @@ print("=============")
 
 print(tup.index(7))
 print(tup.count(4))
+print(tup.index(1))
 
 print("")
 print("Iteration")
